@@ -23,7 +23,7 @@
 }
 
 /* Fusionar item8 para que ocupe las dos primeras columnas de la segunda fila */
-.item5 {
+.item4 {
   grid-column: 2 / span 3; /* Desde la columna 1 hasta la columna 2 */
   grid-row: 3; /* En la segunda fila */
 }
